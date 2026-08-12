@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.tvnow.best/epg.xml.gz"
 
 #################################################
-# 🇨🇱 CHILE TV comunicarse al +56956614116 wacatech
+# 🇨🇱 CHILE TV
 ##################################################
 
-#EXTINF:-1 tvg-name="Mega" group-title="🇨🇱 CHILE TV comunicarse al +56956614116 wacatech" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png?t=1650083505",Mega
+#EXTINF:-1 tvg-name="Mega" group-title="🇨🇱 CHILE TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62037e28d7d379002164a150.png?t=1650083505",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chilevisión" group-title="🇨🇱 CHILE TV comunicarse al +56956614116 wacatech" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png",Chilevisión
+#EXTINF:-1 tvg-name="Chilevisión" group-title="🇨🇱 CHILE TV" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png",Chilevisión
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chilevisión" group-title="🇨🇱 CHILE TV comunicarse al +56956614116 wacatech" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png",Chilevisión HD
+#EXTINF:-1 tvg-name="Chilevisión" group-title="🇨🇱 CHILE TV" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png",Chilevisión HD
 http://45.4.3.177:9999/play/chvmundo
 
-#EXTINF:-1 tvg-name="Canal 13" group-title="🇨🇱 CHILE TV comunicarse al +56956614116 wacatech" tvg-logo="https://media.tvup.cloud/canales/color_lg_62fe4de33511190023ac89c4.png?t=1661270608",Canal 13
+#EXTINF:-1 tvg-name="Canal 13" group-title="🇨🇱 CHILE TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_62fe4de33511190023ac89c4.png?t=1661270608",Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVN" group-title="🇨🇱 CHILE TV comunicarse al +56956614116 wacatech" tvg-logo="https://media.tvup.cloud/canales/color_lg_640f17a027a6ac001db53e60.png",TVN
+#EXTINF:-1 tvg-name="TVN" group-title="🇨🇱 CHILE TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_640f17a027a6ac001db53e60.png",TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
